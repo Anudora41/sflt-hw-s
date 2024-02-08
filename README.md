@@ -7,7 +7,7 @@
    
 ### Материалы задания
 
-1. [Disaster recovery и Keepalived]( ) 
-2. [Кластеризация и балансировка нагрузки]()
-3. [Резервное копирование]()
+1. [Disaster recovery и Keepalived](https://github.com/Anudora41/sflt-hw-s/blob/main/Dis.-and-Keep.md) 
+3. [Кластеризация и балансировка нагрузки]()
+4. [Резервное копирование]()
 
