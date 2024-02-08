@@ -31,7 +31,9 @@
 [Keepalived-fail](https://github.com/Anudora41/sflt-hw-s/blob/main/keepalived.conf)
 
 ![alt text](https://github.com/Anudora41/sflt-hw-s/blob/main/nginx.png)
+
 ![alt text](https://github.com/Anudora41/sflt-hw-s/blob/main/vir1.png)
+
 ![alt text](https://github.com/Anudora41/sflt-hw-s/blob/main/vir2.png)
 
 ---
